@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sunil 👋
 
-<!--
-**Mandapatisunil7/mandapatisunil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech (AI & DS) Student  
+👨‍🏫 Lecturer | Data Analytics Learner  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- Pandas & NumPy
+- Data Visualization
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Student Result Analysis System (Python)
+
+## 📫 Contact
+- Email: sunilmandapati7@gmail.com
