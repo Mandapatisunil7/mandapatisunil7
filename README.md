@@ -1,7 +1,7 @@
 # Hi, I'm Sunil 👋
 
 🎓 M.Tech (AI & DS) Student  
-👨‍🏫 Lecturer | Data Analytics Learner  
+👨‍🏫 Assistant Professor| Data Analytics Learner  
 
 ## 💻 Skills
 - Python
